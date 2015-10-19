@@ -1,0 +1,9 @@
+{
+	"name" : "globe",
+	"description" : "draw a webgl globe",
+	"icon" : "",
+	"type" : "visualization",
+	"version": "0.0.1",
+	"preview" : "globe.png",
+	"author": "Lors Lombardo - Horsa"
+}

@@ -1,0 +1,7 @@
+/* Styles for globe */
+
+/* Recommended pattern for styling your objects */
+.qv-object-globe .hello-world {
+  color:#333;
+  font-weight:bold;
+}
